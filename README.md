@@ -15,3 +15,4 @@ Structure and Interpretation of Computer Programs: http://en.wikipedia.org/wiki/
 If you choose to learn JavaScript, Free Code Camp has a free end-to-end JavaScript and web development curriculum, a supportive community and real-life portfolio projects (building projects for nonprofits).
 
  Udacity - Courses and Nanodegree Programs
+sublime text editor - http://www.sublimetext.com
