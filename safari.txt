@@ -1,0 +1,2 @@
+Modern DevOps      https://www.safaribooksonline.com/library/view/learning-path-modern/9781787280236/video1_18.html?autoStart=True
+Learning Puppet   https://www.safaribooksonline.com/library/view/learning-puppet/9781771373487/
