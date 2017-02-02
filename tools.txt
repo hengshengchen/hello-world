@@ -1,0 +1,20 @@
+emacs - http://www.gnu.org/software/emacs/download.html
+Emacs can be installed on macOS using Homebrew.
+
+$ brew install emacs --with-cocoa
+Using MacPorts:
+
+$ sudo port install emacs-app
+The Emacs for OSX website also provides universal binaries.
+
+sublime text editor - http://www.sublimetext.com
+
+Web Platform.org also has some pretty complete tutorials on CSS - http://docs.webplatform.org/wiki/css
+
+Introduction to HTML https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+Document Object Model (DOM) https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+One of the hardest things to learn in programming is not the syntax you need to learn, but how to apply it to solve real world problems. You need to start thinking like a programmer — this generally involves looking at descriptions of what your program needs to do and working out what code features are needed to achieve those things, and how to make them work together.
+This requires a mixture of hard work, experience with the programming syntax, and practice — and a bit of creativity. The more you code, the better you'll get at it. We can't promise that you'll develop "programmer brain" in 5 minutes, but we will give you plenty of opportunity to practise thinking like a programmer throughout the course.
+With that in mind, let's look at the example we'll be building up in this article, and review the general process of dissecting it into tangible tasks.
